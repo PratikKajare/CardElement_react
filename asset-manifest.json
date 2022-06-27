@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/formvalidation/static/css/main.5f16390b.css",
+    "main.js": "/formvalidation/static/js/main.526361b8.js",
+    "static/js/787.05671433.chunk.js": "/formvalidation/static/js/787.05671433.chunk.js",
+    "static/media/pngwing.png": "/formvalidation/static/media/pngwing.9dbf497080b0a0fc0307.png",
+    "index.html": "/formvalidation/index.html",
+    "main.5f16390b.css.map": "/formvalidation/static/css/main.5f16390b.css.map",
+    "main.526361b8.js.map": "/formvalidation/static/js/main.526361b8.js.map",
+    "787.05671433.chunk.js.map": "/formvalidation/static/js/787.05671433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f16390b.css",
+    "static/js/main.526361b8.js"
+  ]
+}
